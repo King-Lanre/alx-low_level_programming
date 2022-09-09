@@ -4,7 +4,7 @@
  *
  * Return: Always 0 (Success/correct)
  */
-int main(void)a
+int main(void)
 {
 	int i, j, k;
 
@@ -26,7 +26,7 @@ int main(void)a
 					}
 				}
 			}
-		}	
+		}
 	}
 	putchar('\n');
 	return (0);
