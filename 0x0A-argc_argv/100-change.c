@@ -42,9 +42,10 @@ change += aux;
 total -= coins[position] * aux;
 }
 
-
+position++;
 
 }
+
 printf("%d\n", change);
 return (0);
 }
